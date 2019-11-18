@@ -1,4 +1,4 @@
-#Projeto desenvolvido no Hackathon das Águas, iniciativa da empresa Águas Guariroba com o Living Lab MS, em Campo Grande MS
+#Projeto desenvolvido no Hackathon das Águas 2016, iniciativa da empresa Águas Guariroba com o Living Lab MS, em Campo Grande MS
 Nome do projeto: Whunter - Dispositivo para identificação de vazamentos não visíveis atráves de frequência de rádio.
 
 Desafio: Tipo A
