@@ -1,5 +1,5 @@
 ## Nome do projeto: 
-Whunter - Dispositivo para identificação de vazamentos não visíveis atráves de frequência de rádio.
+Whunter - Dispositivo para identificação de vazamentos não visíveis através de frequência de rádio.
 ## Tecnologia usada: 
 Arduino
 ## Linguagem: 
